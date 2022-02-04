@@ -9,3 +9,5 @@ then it would go to the left node which is 9 in our case and when it loops back 
 avoid adding the sum UNTIL all nodes in a path are accounted for, and whenever a new node is found the parent is multiplied by 10 
 and then the child is added to it to ensure the values are represented accurately
 
+
+![image](https://user-images.githubusercontent.com/91294146/152471435-c32d3d82-c651-402d-9929-1769115a5a87.png)
