@@ -1,5 +1,4 @@
-# header
-# Breadth First Search With Queue (129 - Leetcode) 
+Breadth First Search With Queue (129 - Leetcode) 
 
 - Idea is to add all the sums of the root + leaves, the catch is the parent of the leaf is 10 times greater, so in our case we had to account for that
 
